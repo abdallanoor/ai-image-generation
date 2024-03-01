@@ -8,7 +8,7 @@ const App = () => {
       <div className="w-full sm:w-[90%] m-auto">
         <header className="w-full flex justify-between items-center bg-[#1d2023] px-3 py-4 ">
           <Link to="/" className="fill-black">
-            <img src={logo} alt="logo" className="w-28 object-contain" />
+            <img src={logo} alt="logo" className="w-20 object-contain" />
           </Link>
           {/* <Link
           to="/create-post"
